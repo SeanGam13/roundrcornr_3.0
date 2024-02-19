@@ -1,4 +1,4 @@
-/# I present to you Roundr-Cornr, The music streaming plattform for the future.
+# I present to you Roundr-Cornr, The music streaming plattform for the future.
 
 <a href="http://127.0.0.1:5500/index.html</h1></a>
 
