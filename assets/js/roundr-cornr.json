@@ -1,0 +1,766 @@
+{
+    "current_playlist": [],
+    "cardbox": [{
+            "songsbox": "WHO'S WHO IN THE ZOO???",
+            "songscards": [{
+                    "id": 0,
+                    "playlist_type": true,
+                    "playlist": [{
+                            "id": 0,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "First Person Shooter",
+                            "album_name": "For All The Dogs",
+                            "singers": "",
+                            "image_source": "assests/images/First Person Shooter.jpeg",
+                            "quality": { "low": "assests/songs/First Person Shooter.m4a", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 1,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Water",
+                            "album_name": "Tyla",
+                            "singers": "",
+                            "image_source": "assests/images/Water.jpg",
+                            "quality": { "low": "assests/songs/Water.m4a", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 2,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Rich Spirit",
+                            "album_name": "Mr. Morale and the Big Steppers",
+                            "singers": "",
+                            "image_source": "assests/images/Rich Spirit.jpg",
+                            "quality": { "low": "assests/songs/Rich Spirit.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 3,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Mnike Feat DJ Maphorisa, Nandipha808, Ceeka RSA Tyron Dee Tyler",
+                            "album_name": "Mnike",
+                            "singers": "",
+                            "image_source": "assests/images/Mnike_feat_DJ_Maphorisa,_Nandipha808,_Ceeka_RSA_Tyron_Dee_Tyler.jpg",
+                            "quality": { "low": "assests/songs/Mnike_feat_DJ_Maphorisa,_Nandipha808,_Ceeka_RSA_Tyron_Dee_Tyler.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        }
+                    ],
+                    "song_name": "Top Tier",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/Top Tier.jpeg",
+                    "quality": { "low": "", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 1,
+                    "playlist_type": true,
+                    "playlist": [{
+                            "id": 0,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Water",
+                            "album_name": "Tyla",
+                            "singers": "",
+                            "image_source": "assests/images/Water.jpg",
+                            "quality": { "low": "assests/songs/Water.m4a", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 1,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Sittin  On Top Of The World",
+                            "album_name": "Burna Boy",
+                            "singers": "",
+                            "image_source": "assests/images/Burna Boy - Sittin  On Top Of The World.jpg",
+                            "quality": { "low": "assests/songs/Burna Boy - Sittin  On Top Of The World.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 2,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Everything",
+                            "album_name": "Victony",
+                            "singers": "",
+                            "image_source": "assests/images/Victony - Everything.jpg",
+                            "quality": { "low": "assests/songs/Victony - Everything.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 3,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "This Time",
+                            "album_name": "Nasty C",
+                            "singers": "",
+                            "image_source": "assests/images/I love it here.jpg",
+                            "quality": { "low": "assests/songs/This Time.m4a", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 4,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Mnike Feat DJ Maphorisa, Nandipha808, Ceeka RSA Tyron Dee Tyler",
+                            "album_name": "Tyler ICU",
+                            "singers": "",
+                            "image_source": "assests/images/Mnike_feat_DJ_Maphorisa,_Nandipha808,_Ceeka_RSA_Tyron_Dee_Tyler.jpg",
+                            "quality": { "low": "assests/songs/Mnike_feat_DJ_Maphorisa,_Nandipha808,_Ceeka_RSA_Tyron_Dee_Tyler.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 5,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Anoti",
+                            "album_name": "Wizkid",
+                            "singers": "",
+                            "image_source": "assests/images/Wizkid - Anoti.jpg",
+                            "quality": { "low": "assests/songs/Wizkid - Anoti.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        }
+                    ],
+                    "song_name": "Afcon Spotlight",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/Afrobeats.jpg",
+                    "quality": { "low": "", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 2,
+                    "playlist_type": true,
+                    "playlist": [{
+                            "id": 0,
+                            "song_name": "BEEP",
+                            "album_name": "Nicki Minaj",
+                            "singers": "",
+                            "image_source": "assests/images/Pink Friday 2.jpg",
+                            "quality": { "low": "assests/songs/04-Nicki-Minaj-Beep-Beep-(HiphopKit.com).mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 1,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Fair Trade",
+                            "album_name": "Drake",
+                            "singers": "",
+                            "image_source": "assests/images/Drake, Travis Scott - Fair Trade(Explicit).jpeg",
+                            "quality": { "low": "assests/songs/Drake, Travis Scott - Fair Trade(Explicit).mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 2,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Rich Spirit",
+                            "album_name": "Mr. Morale and the Big Steppers",
+                            "singers": "",
+                            "image_source": "assests/images/Rich Spirit.jpg",
+                            "quality": { "low": "assests/songs/Rich Spirit.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 3,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Headhunters",
+                            "album_name": "Dreamville",
+                            "singers": "",
+                            "image_source": "assests/images/Dreamville - Adonis Interlude (The Montage).jpeg",
+                            "quality": { "low": "assests/songs/Dreamville - Headhunters.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 4,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "No More",
+                            "album_name": "Nasty C",
+                            "singers": "",
+                            "image_source": "assests/images/No More.jpeg",
+                            "quality": { "low": "assests/songs/No More.m4a", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 5,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "First Person Shooter",
+                            "album_name": "For All The Dogs",
+                            "singers": "",
+                            "image_source": "assests/images/First Person Shooter.jpeg",
+                            "quality": { "low": "assests/songs/First Person Shooter.m4a", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 6,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Bécane",
+                            "album_name": "Yame",
+                            "singers": "",
+                            "image_source": "assests/images/Yame - Bécane.jpg",
+                            "quality": { "low": "assests/songs/Yame - Bécane.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 7,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Overtime",
+                            "album_name": "Big Sean",
+                            "singers": "",
+                            "image_source": "assests/images/Overtime - Big Sean.jpeg",
+                            "quality": { "low": "assests/songs/Overtime - Big Sean.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        }
+                    ],
+                    "song_name": "Hip-Hop",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/hip-hop.jpeg",
+                    "quality": { "low": "", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 3,
+                    "playlist_type": true,
+                    "playlist": [{
+                            "id": 0,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Big Foot",
+                            "album_name": "Nicki Minaj",
+                            "singers": "",
+                            "image_source": "assests/images/Nicki Minaj - Big Foot.jpg",
+                            "quality": { "low": "assests/songs/Nicki Minaj - Big Foot.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 1,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Dalie",
+                            "album_name": "Kamo Mphela",
+                            "singers": "",
+                            "image_source": "assests/images/Dalie (feat. Baby S.O.N).jpg",
+                            "quality": { "low": "assests/songs/Dalie (feat. Baby S.O.N).m4a", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 2,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Paint The Town Red",
+                            "album_name": "Doja Cat",
+                            "singers": "",
+                            "image_source": "assests/images/Doja Cat - Paint The Town Red.jpg",
+                            "quality": { "low": "assests/songs/Doja Cat - Paint The Town Red.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 3,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Made For Me",
+                            "album_name": "Muni Long",
+                            "singers": "",
+                            "image_source": "assests/images/Muni Long - Made For Me.jpg",
+                            "quality": { "low": "assests/songs/Muni Long - Made For Me.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 4,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Water",
+                            "album_name": "Tyla",
+                            "singers": "",
+                            "image_source": "assests/images/Water.jpg",
+                            "quality": { "low": "assests/songs/Water.m4a", "medium": "", "high": "" },
+                            "release_date": "date"
+                        }
+                    ],
+                    "song_name": "Girl Power",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/queen.jpg",
+                    "quality": { "low": "", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 4,
+                    "playlist_type": true,
+                    "playlist": [{
+                            "id": 0,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Twe Twe",
+                            "album_name": "Kizz Daniel",
+                            "singers": "",
+                            "image_source": "assests/images/Kizz Daniel - Twe Twe.jpg",
+                            "quality": { "low": "assests/songs/Kizz Daniel - Twe Twe.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 1,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Cross My Lane",
+                            "album_name": "Broda Shaggi",
+                            "singers": "",
+                            "image_source": "assests/images/Broda Shaggi - Cross My Lane.jpg",
+                            "quality": { "low": "assests/songs/Broda Shaggi - Cross My Lane.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 2,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Delicious",
+                            "album_name": "Situaes",
+                            "singers": "",
+                            "image_source": "assests/images/DELICIOUS (master missing)_Elevated_Depth_Presence_Ref.webp",
+                            "quality": { "low": "assests/songs/DELICIOUS (master missing)_Elevated_Depth_Presence_Ref.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 3,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Anoti",
+                            "album_name": "Wizkid",
+                            "singers": "",
+                            "image_source": "assests/images/Wizkid - Anoti.jpg",
+                            "quality": { "low": "assests/songs/Wizkid - Anoti.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 4,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "ladki kar gayi chull",
+                            "album_name": "kapoor and sons",
+                            "singers": "",
+                            "image_source": "assests/images/hip_hop.jpg",
+                            "quality": { "low": "assests/songs/kargyichull.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 5,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "let me love you",
+                            "album_name": "encore",
+                            "singers": "",
+                            "image_source": "assests/images/letmeloveu.jpg",
+                            "quality": { "low": "assests/songs/letmeloveu.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 6,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "raabta",
+                            "album_name": "raabta",
+                            "singers": "",
+                            "image_source": "assests/images/rabta.jpg",
+                            "quality": { "low": "assests/songs/raabta.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 7,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "shape of you",
+                            "album_name": "shape of you",
+                            "singers": "",
+                            "image_source": "assests/images/shape_of_you.jpg",
+                            "quality": { "low": "assests/songs/shapeofyou.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        }
+                    ],
+                    "song_name": "Na Cruise",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/Broda_Shaggi_cropped.png",
+                    "quality": { "low": "", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 5,
+                    "playlist_type": true,
+                    "playlist": [{
+                            "id": 0,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Mnike Feat DJ Maphorisa, Nandipha808, Ceeka RSA Tyron Dee Tyler",
+                            "album_name": "Tyler ICU",
+                            "singers": "",
+                            "image_source": "assests/images/Mnike_feat_DJ_Maphorisa,_Nandipha808,_Ceeka_RSA_Tyron_Dee_Tyler.jpg",
+                            "quality": { "low": "assests/songs/Mnike_feat_DJ_Maphorisa,_Nandipha808,_Ceeka_RSA_Tyron_Dee_Tyler.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 1,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Bécane",
+                            "album_name": "Yame",
+                            "singers": "",
+                            "image_source": "assests/images/Yame - Bécane.jpg",
+                            "quality": { "low": "assests/songs/Yame - Bécane.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 2,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Everything",
+                            "album_name": "Victony",
+                            "singers": "",
+                            "image_source": "assests/images/Victony - Everything.jpg",
+                            "quality": { "low": "assests/songs/Victony - Everything.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        }
+                    ],
+                    "song_name": "Globerunner",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/Roundr_Globe.webp",
+                    "quality": { "low": "", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 6,
+                    "playlist_type": true,
+                    "playlist": [{
+                        "id": 0,
+                        "playlist_type": false,
+                        "playlist": null,
+                        "song_name": "First Person Shooter",
+                        "album_name": "For All The Dogs",
+                        "singers": "",
+                        "image_source": "assests/images/First Person Shooter.jpeg",
+                        "quality": { "low": "assests/songs/First Person Shooter.m4a", "medium": "", "high": "" },
+                        "release_date": "date"
+                    }],
+                    "song_name": "This Week",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/this-week-in-trendy-illustration-for-stickers-design-element-png.webp",
+                    "quality": { "low": "", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 7,
+                    "playlist_type": true,
+                    "playlist": [{
+                            "id": 0,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Water",
+                            "album_name": "Tyla",
+                            "singers": "",
+                            "image_source": "assests/images/Water.jpg",
+                            "quality": { "low": "assests/songs/Water.m4a", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "No More",
+                            "album_name": "Nasty C",
+                            "singers": "",
+                            "image_source": "assests/images/No More.jpeg",
+                            "quality": { "low": "assests/songs/No More.m4a", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 2,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Gwan",
+                            "album_name": "Dee Koala",
+                            "singers": "",
+                            "image_source": "assests/images/Dee Koala  Maglera Doe Boy - Gwan(320).jpg",
+                            "quality": { "low": "assests/songs/Dee Koala  Maglera Doe Boy - Gwan(320).mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        },
+                        {
+                            "id": 3,
+                            "playlist_type": false,
+                            "playlist": null,
+                            "song_name": "Delicious",
+                            "album_name": "Situaes",
+                            "singers": "",
+                            "image_source": "assests/images/DELICIOUS (master missing)_Elevated_Depth_Presence_Ref.webp",
+                            "quality": { "low": "assests/songs/DELICIOUS (master missing)_Elevated_Depth_Presence_Ref.mp3", "medium": "", "high": "" },
+                            "release_date": "date"
+                        }
+                    ],
+                    "song_name": "NEXT UP",
+                    "album_name": "",
+                    "singers": "",
+                    "image_source": "assests/images/nextup.jpg",
+                    "quality": { "low": "", "medium": "", "high": "" },
+                    "release_date": "date"
+                }
+            ]
+        },
+        {
+            "songsbox": "latest albums",
+            "songscards": [{
+                    "id": 0,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "I Told Them",
+                    "album_name": "Burna Boy",
+                    "singers": "",
+                    "image_source": "assests/images/If I’m Lying.jpeg",
+                    "quality": { "low": "assests/songs/If I’m Lying.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 1,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "For All The Dogs",
+                    "album_name": "Drake",
+                    "singers": "",
+                    "image_source": "assests/images/First Person Shooter.jpeg",
+                    "quality": { "low": "assests/songs/First Person Shooter.m4a", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 2,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Creed III Soundtrack",
+                    "album_name": "Dreamville",
+                    "singers": "",
+                    "image_source": "assests/images/Dreamville - Adonis Interlude (The Montage).jpeg",
+                    "quality": { "low": "assests/songs/Dreamville - Headhunters.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 3,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Scarlet",
+                    "album_name": "Doja Cat",
+                    "singers": "",
+                    "image_source": "assests/images/Doja_Cat_-_Scarlet.png",
+                    "quality": { "low": "assests/songs/Doja Cat - Paint The Town Red.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 4,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Mr. Morale and the Big Steppers",
+                    "album_name": "Kendrick Lamar",
+                    "singers": "",
+                    "image_source": "assests/images/Rich Spirit.jpg",
+                    "quality": { "low": "assests/songs/Rich Spirit.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 5,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Pink Friday 2",
+                    "album_name": "Nicki Minaj",
+                    "singers": "",
+                    "image_source": "assests/images/Pink Friday 2.jpg",
+                    "quality": { "low": "assests/songs/04-Nicki-Minaj-Beep-Beep-(HiphopKit.com).mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 6,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "I Love It Here",
+                    "album_name": "Nasty C",
+                    "singers": "",
+                    "image_source": "assests/images/I love it here.jpg",
+                    "quality": { "low": "assests/songs/Crazy Crazy.m4a", "medium": "", "high": "" },
+                    "release_date": "date"
+
+                }
+            ]
+        },
+        {
+            "songsbox": "new  releases",
+            "songscards": [{
+                    "id": 0,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Made For Me",
+                    "album_name": "Muni Long",
+                    "singers": "",
+                    "image_source": "assests/images/Muni Long - Made For Me.jpg",
+                    "quality": { "low": "assests/songs/Muni Long - Made For Me.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 1,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Sneaky",
+                    "album_name": "21 Savage",
+                    "singers": "",
+                    "image_source": "assests/images/sneaky - 21 Savage (128).jpg",
+                    "quality": { "low": "assests/songs/sneaky - 21 Savage (128).mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 2,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "First Person Shooter",
+                    "album_name": "Drake, J.Cole",
+                    "singers": "Drake, J.Cole",
+                    "image_source": "assests/images/First Person Shooter.jpeg",
+                    "quality": { "low": "assests/songs/First Person Shooter.m4a", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 3,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Ruin",
+                    "album_name": "Usher",
+                    "singers": "",
+                    "image_source": "assests/images/USHER - Ruin.jpg",
+                    "quality": { "low": "assests/songs/USHER - Ruin.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 4,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Dalie",
+                    "album_name": "Kamo Mphela",
+                    "singers": "",
+                    "image_source": "assests/images/Dalie (feat. Baby S.O.N).jpg",
+                    "quality": { "low": "assests/songs/Dalie (feat. Baby S.O.N).m4a", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 5,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Twe Twe",
+                    "album_name": "Kizz Daniel",
+                    "singers": "",
+                    "image_source": "assests/images/Kizz Daniel - Twe Twe.jpg",
+                    "quality": { "low": "assests/songs/Kizz Daniel - Twe Twe.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 6,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Big Foot",
+                    "album_name": "Nicki Minaj",
+                    "singers": "",
+                    "image_source": "assests/images/Nicki Minaj - Big Foot.jpg",
+                    "quality": { "low": "assests/songs/Nicki Minaj - Big Foot.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 7,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Everything",
+                    "album_name": "Victony",
+                    "singers": "",
+                    "image_source": "assests/images/Victony - Everything.jpg",
+                    "quality": { "low": "assests/songs/Victony - Everything.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                }
+            ]
+        },
+        {
+            "songsbox": "top trending",
+            "songscards": [{
+                    "id": 0,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Bécane",
+                    "album_name": "Yame",
+                    "singers": "",
+                    "image_source": "assests/images/Yame - Bécane.jpg",
+                    "quality": { "low": "assests/songs/Yame - Bécane.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 1,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Gwan",
+                    "album_name": "Dee Koala",
+                    "singers": "",
+                    "image_source": "assests/images/Dee Koala  Maglera Doe Boy - Gwan(320).jpg",
+                    "quality": { "low": "assests/songs/Dee Koala  Maglera Doe Boy - Gwan(320).mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 2,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Made For Me",
+                    "album_name": "Muni Long",
+                    "singers": "",
+                    "image_source": "assests/images/Muni Long - Made For Me.jpg",
+                    "quality": { "low": "assests/songs/Muni Long - Made For Me.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 3,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Everything",
+                    "album_name": "Victony",
+                    "singers": "",
+                    "image_source": "assests/images/Victony - Everything.jpg",
+                    "quality": { "low": "assests/songs/Victony - Everything.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 4,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Twe Twe",
+                    "album_name": "Kizz Daniel",
+                    "singers": "",
+                    "image_source": "assests/images/Kizz Daniel - Twe Twe.jpg",
+                    "quality": { "low": "assests/songs/Kizz Daniel - Twe Twe.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                },
+                {
+                    "id": 5,
+                    "playlist_type": false,
+                    "playlist": null,
+                    "song_name": "Paint The Town Red",
+                    "album_name": "Doja Cat",
+                    "singers": "",
+                    "image_source": "assests/images/Doja Cat - Paint The Town Red.jpg",
+                    "quality": { "low": "assests/songs/Doja Cat - Paint The Town Red.mp3", "medium": "", "high": "" },
+                    "release_date": "date"
+                }
+            ]
+        }
+
+    ]
+}
