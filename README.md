@@ -1,5 +1,17 @@
-# I present to you Roundr-Cornr, The music streaming plattform for the future.
+# gaana.com
+Replica of ganna.com completely developed by me.
 
-<a href="http://127.0.0.1:5500/index.html</h1></a>
 
-Through so much trial and error, we opted for a single page application as opposed to a multi page one. This site keeps you up to date with the latest music trends as well as artists to keep an eye out for.
+<a href="https://hkgannaapp.herokuapp.com/"><h1>hkganna.com</h1></a>
+
+
+
+
+
+
+
+
+added features:-
+1.drag and drop feature
+2.Single Page Application
+3.offline Song page/playlist-page developement by javascript 
