@@ -3,7 +3,7 @@ body {
     padding: 0px;
     font-family: 'Open Sans', sans-serif;
     /*    font-family: 'Roboto', sans-serif;*/
-    background-color: #21242E;
+    background-color: #6e6f71;
     margin-top: 60px;
     position: relative;
     -webkit-overflow-scrolling: touch;
@@ -16,12 +16,12 @@ body {
 *::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
-    background-color: #21202E;
+    background-color: #ff6600f5;
 }
 
 *::-webkit-scrollbar {
     width: 15px;
-    background-color: #21242E;
+    background-color: #3e6bff;
 }
 
 #playlist_box::-webkit-scrollbar {
@@ -75,7 +75,7 @@ header {
     height: 60px;
     z-index: 100;
     overflow: hidden;
-    background-color: #21242E;
+    background-color: #656565;
     text-transform: capitalize;
     border-bottom: 1px solid black;
 }
@@ -139,7 +139,7 @@ nav ul li:hover {
 #clearQueue,
 #saveAsPlaylist {
     color: #FF3C00;
-    background-color: #21242E;
+    background-color: #5b81ff;
     border-radius: 60px;
     padding: 7px 15px;
     font-size: 11px;
@@ -180,7 +180,7 @@ header .fa:hover {
 .nav3 {
     width: 100%;
     box-shadow: 1px 0px 5px black;
-    background-color: #222428;
+    background-color: #ff7300;
     margin-bottom: 10px;
     display: none;
 }
@@ -1137,6 +1137,11 @@ input[type="submit"]:hover {
     color: #fff;
     border: none;
     cursor: pointer;
+}
+
+.submit-button:hover {
+    background-color: #f90;
+}
 }
 
 .submit-button:hover {
